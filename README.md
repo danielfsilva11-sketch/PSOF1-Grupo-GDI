@@ -9,3 +9,10 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 -[Como Utilizar] (#---)
 -[Estrutura do projeto] (#---)
 -[Licença] (#---)
+
+---
+
+## Sobre o Projeto 
+Presença Já é uma ferramenta para docentes e instituições escolares que ajuda no registro de presenças dos alunos. Tudo fácil e rápido na palma da sua mão.
+
+##Funcionalidades

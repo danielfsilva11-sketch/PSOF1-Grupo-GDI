@@ -10,7 +10,7 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 ---
 
 ## Sobre o Projeto 
-Presença Já é uma ferramenta para docentes e instituições escolares que ajuda no registro de presenças dos alunos. Tudo fácil e rápido na palma da sua mão.
+**Presença Já** é uma ferramenta para docentes e instituições escolares que ajuda no registro de presenças dos alunos. Tudo fácil e rápido na palma da sua mão.
 
 ##Funcionalidades
 **Cadastro e gestão:** Alunos, Professores e disciplinas. 
@@ -19,11 +19,15 @@ Presença Já é uma ferramenta para docentes e instituições escolares que aju
 
 ---
 
-## Requisitos
+## Requisitos do Sistema:
 Antes de começar, você precisará ter instalado na maquina as seguintes ferramentas:
 * Banco de Dados
 * [Node.JS] (https://nodejs.org/pt-br)
 * [Git] (https://git-scm.com/)
+* [Python] (https://www.python.org/)
+* [MySQl] (https://www.mysql.com/)
+* [Java] (https://www.java.com/pt-br/)
+* [Rust] (https://rust-lang.org/pt-BR/)
 
 ---
 

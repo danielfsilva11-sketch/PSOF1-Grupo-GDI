@@ -3,12 +3,9 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 
 ----
 ## Sumario
--[Sobre o Projeto] (#---)
--[Funcionalidades] (#---)
--[Requisitos] (#---)
--[Como Utilizar] (#---)
--[Estrutura do projeto] (#---)
--[Licença] (#---)
+-[Sobre o Projeto] (#-sobre-o-projeto)
+-[Funcionalidades] (#-funcionalidades)
+-[Requisitos] (#-requisitos)
 
 ---
 
@@ -21,3 +18,12 @@ Presença Já é uma ferramenta para docentes e instituições escolares que aju
 **Alerta de faltas:** Alertas sobre faltas em alunos e salas.
 
 ---
+
+## Requisitos
+Antes de começar, você precisará ter instalado na maquina as seguintes ferramentas:
+* Banco de Dados
+* [Node.JS] (https://nodejs.org/pt-br)
+* [Git] (https://git-scm.com/)
+
+---
+

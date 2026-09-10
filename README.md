@@ -6,6 +6,7 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 -[Sobre o Projeto] (#-sobre-o-projeto)
 -[Funcionalidades] (#-funcionalidades)
 -[Requisitos] (#-requisitos)
+-[Imagens] (#-imagens)
 
 ---
 
@@ -30,4 +31,10 @@ Antes de começar, você precisará ter instalado na maquina as seguintes ferram
 * [Rust] (https://rust-lang.org/pt-BR/)
 
 ---
+
+* Tela de Login
+  <img width="1894" height="939" alt="image" src="https://github.com/user-attachments/assets/3fa0d1c9-3990-435a-b133-89f227c6aeb3" />
+---
+*Tela de Cadastro
+<img width="1900" height="942" alt="image" src="https://github.com/user-attachments/assets/008465ae-03a9-4383-90f6-856a3cfe7ce8" />
 

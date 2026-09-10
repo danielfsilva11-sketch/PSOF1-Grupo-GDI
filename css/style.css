@@ -1,0 +1,131 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 110vh;
+}
+.formulario{
+    width: 400px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 12px black;
+}
+h1{
+    font-family: "Graduate", serif;
+    text-align: center;
+    color: black;
+
+}
+.rsenha{
+    color: rgb(5, 30, 248);
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    display: flex;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+}
+input:focus{
+    outline: none;
+    border-color: rgb(66, 66, 66);
+}
+button:hover{
+    background-color: rgb(143, 143, 143);
+}
+.graduate-regular {
+  font-family: "Graduate", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.botao1{
+    display: flex;
+    gap: 1px;
+    margin-top: 13px;
+}
+button{
+    flex: 1;
+    padding: 13px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+.ou{
+    text-align: center;
+    font-size: 1px;
+
+}
+.botoes{
+    display: flex;
+    gap: 9px;
+
+}
+.google-buttom{
+     flex: 1;
+    padding: 13px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+
+
+}
+.google-buttom:hover{
+    background-color: rgb(143, 143, 143);
+
+}
+.cadastro{
+     color: rgb(0, 0, 0);
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    display: flex;
+}
+.facebook-buttom{
+     flex: 1;
+    padding: 13px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.facebook-buttom:hover{
+    background-color: rgb(143, 143, 143);
+
+}
+tfoot {
+    background-color: #1c5202;
+}
+tfoot td{
+    text-align: right;
+    color: black;
+    font-size: 16px;
+    padding: 18px;
+}
+footer{
+    text-align: center;
+    color: black;
+    bottom: 0;
+    position: absolute;
+    
+}

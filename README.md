@@ -40,6 +40,6 @@ Antes de começar, você precisará ter instalado na maquina as seguintes ferram
 <img width="1909" height="932" alt="image" src="https://github.com/user-attachments/assets/13878215-dca9-441e-b9f4-20939ccdf4b2" />
 
 ---
-*
+
 
 

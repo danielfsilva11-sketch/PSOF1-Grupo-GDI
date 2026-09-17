@@ -33,8 +33,13 @@ Antes de começar, você precisará ter instalado na maquina as seguintes ferram
 ---
 
 * Tela de Login
-  <img width="1894" height="939" alt="image" src="https://github.com/user-attachments/assets/3fa0d1c9-3990-435a-b133-89f227c6aeb3" />
+  <img width="1912" height="938" alt="image" src="https://github.com/user-attachments/assets/b5aef1d9-069e-4eea-8d18-0bffd6ee5b84" />
+
 ---
 *Tela de Cadastro
-<img width="1900" height="942" alt="image" src="https://github.com/user-attachments/assets/008465ae-03a9-4383-90f6-856a3cfe7ce8" />
+<img width="1909" height="932" alt="image" src="https://github.com/user-attachments/assets/13878215-dca9-441e-b9f4-20939ccdf4b2" />
+
+---
+*
+
 

@@ -7,7 +7,7 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 -[Funcionalidades] (#-funcionalidades)
 -[Requisitos] (#-requisitos)
 -[Imagens] (#-imagens)
-
+-[Planilha] (#-planilha excel)
 ---
 
 ## Sobre o Projeto 
@@ -40,6 +40,7 @@ Antes de começar, você precisará ter instalado na maquina as seguintes ferram
 <img width="1909" height="932" alt="image" src="https://github.com/user-attachments/assets/13878215-dca9-441e-b9f4-20939ccdf4b2" />
 
 ---
+## A planilha do excel pode ser encontrada no KanBan "Planilha Excel"
 
 
 

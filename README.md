@@ -11,7 +11,7 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 ---
 
 ## Sobre o Projeto 
-**Presença Já** é uma ferramenta para docentes e instituições escolares que ajuda no registro de presenças dos alunos. Tudo fácil e rápido na palma da sua mão.
+**EduLinea** é uma ferramenta para docentes e instituições escolares que ajuda no registro de presenças dos alunos. Tudo fácil e rápido na palma da sua mão.
 
 ##Funcionalidades
 **Cadastro e gestão:** Alunos, Professores e disciplinas. 
@@ -22,7 +22,7 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 
 ## Requisitos do Sistema:
 Antes de começar, você precisará ter instalado na maquina as seguintes ferramentas:
-* Banco de Dados
+* Banco de Dados com dados dos alunos
 * [Node.JS] (https://nodejs.org/pt-br)
 * [Git] (https://git-scm.com/)
 * [Python] (https://www.python.org/)

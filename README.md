@@ -4,6 +4,7 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 ----
 ## Sumario
 -[Sobre o Projeto] (#-sobre-o-projeto)
+
 -[Funcionalidades] (#-funcionalidades)
 -[Requisitos] (#-requisitos)
 -[Imagens] (#-imagens)

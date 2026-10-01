@@ -4,7 +4,6 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 ----
 ## Sumario
 -[Sobre o Projeto] (#-sobre-o-projeto)
-
 -[Funcionalidades] (#-funcionalidades)
 -[Requisitos] (#-requisitos)
 -[Imagens] (#-imagens)
@@ -24,12 +23,9 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 ## Requisitos do Sistema:
 Antes de começar, você precisará ter instalado na maquina as seguintes ferramentas:
 * Banco de Dados com dados dos alunos
-* [Node.JS] (https://nodejs.org/pt-br)
 * [Git] (https://git-scm.com/)
-* [Python] (https://www.python.org/)
 * [MySQl] (https://www.mysql.com/)
 * [Java] (https://www.java.com/pt-br/)
-* [Rust] (https://rust-lang.org/pt-BR/)
 
 ---
 

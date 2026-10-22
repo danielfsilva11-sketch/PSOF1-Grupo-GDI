@@ -11,7 +11,7 @@ uma aplicação feita para realizar o gerenciamento de presença de alunos em in
 ---
 
 ## Sobre o Projeto 
-**EduLinea** é uma ferramenta para docentes e instituições escolares que ajuda no registro de presenças dos alunos. Tudo fácil e rápido na palma da sua mão.
+**EduLinea** é uma ferramenta para docentes e instituições escolares que ajuda no registro de presenças dos alunos.
 
 ##Funcionalidades
 **Cadastro e gestão:** Alunos, Professores e disciplinas. 
@@ -26,7 +26,7 @@ Antes de começar, você precisará ter instalado na maquina as seguintes ferram
 * [Git] (https://git-scm.com/)
 * [MySQl] (https://www.mysql.com/)
 * [Java] (https://www.java.com/pt-br/)
-* [Pthon] (https://www.python.org/)
+* [Python] (https://www.python.org/)
 * [Docker] (https://www.docker.com/)
 * 
 

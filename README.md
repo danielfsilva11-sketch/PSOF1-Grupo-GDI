@@ -26,6 +26,9 @@ Antes de começar, você precisará ter instalado na maquina as seguintes ferram
 * [Git] (https://git-scm.com/)
 * [MySQl] (https://www.mysql.com/)
 * [Java] (https://www.java.com/pt-br/)
+* [Pthon] (https://www.python.org/)
+* [Docker] (https://www.docker.com/)
+* 
 
 ---
 
